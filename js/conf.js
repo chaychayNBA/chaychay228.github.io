@@ -1,0 +1,1 @@
+callback__li04lqn0_1({c:{cmp:1,gdpr:{ga:1},pvid:"2e1035aa-f788-4201-a8c1-8970776c02fb",hb:[],lazyload:!0,gam:0,stad:[{h:90,w:728,format:"MTS"}],plt:"vjs",ogury:!1},url:"https://c0.pubmine.com/2.37.11677685674593/ata.js"});
